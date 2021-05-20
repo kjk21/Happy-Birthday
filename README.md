@@ -1,7 +1,7 @@
 <h1 align="center">Happy Birthday!!! 🔥</h1> 
 
 <p align="center">
-<a href="https://sawankumar.gitlab.io/"><img alt="author" src="https://img.shields.io/badge/author-Sawan%20Kumar-red"/></a>
+<a href="https://kjk.gitlab.io/"><img alt="author" src="https://img.shields.io/badge/author-kjk%20-red"/></a>
 <a href="https://github.com/ellerbrock/open-source-badges/"><img alt="author" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>
 </p>
 
@@ -10,7 +10,7 @@
 
 > ## Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://sawankumar.github.io/Happy-Birthday/)
+#### [See it Live](https://kjk.github.io/Happy-Birthday/)
 
 It was a birthday of one of my friend and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
 
